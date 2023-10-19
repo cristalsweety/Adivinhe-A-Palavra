@@ -1,0 +1,35 @@
+body {
+	background: lightblue;
+}
+
+.loginDivs {
+	background: white;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+
+
+#Joga1Placar,
+#Joga2Placar {
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#word {
+	width: 60%;
+}
+
+#wordDisplay {
+	letter-spacing: 5px;
+}
+
+#output {
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: center;
+	width: 50%;
+}
